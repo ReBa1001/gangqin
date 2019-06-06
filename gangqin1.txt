@@ -1,15 +1,9 @@
 Piano,a challenging and very elegant instrument.
-
 This app makes it easy for people who want to learn piano,use the phone to practice the piano anytime,anywhere, and use the phone piano to show you a perfect piano piece.
-
 Features:
-
 A small and elegant mobile mini piano.
 Fully simulate real buttons and pronunciations.
 Let you enjoy the fun of playing the piano anytime, anywhere.
-
-
 Please contact us if you have any questions during use.
 Email: sbqehiiq@gmail.com
-
 Let music come from your fingertips!
