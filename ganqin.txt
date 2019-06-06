@@ -1,7 +1,7 @@
 GANGQIN PRIVACY POLICY
-We are a data controller and are responsible for the collection, use, disclosure, retention and protection of your "personal data" (which has the meaning as set out in the General Data Protection Regulation (the "Data Protection Laws")).
+We are a data controller and are responsible for the collection, use, disclosure, retention and protection of your personal data (which has the meaning as set out in the General Data Protection Regulation (the Data Protection Laws)).
 
-When you use Ganqin app,  app or other apps (each being, our "Platform"), we will collect, store and process certain personal data. This privacy policy ("Privacy Policy") sets out the basis on which the personal data collected from you, or that you provide to us, will be processed by us. Please read the following carefully to understand how we will use your personal data. For Data Protection Laws in the UK, we are the controller of your personal data.
+When you use Ganqin app,  app or other apps (each being, our Platform), we will collect, store and process certain personal data. This privacy policy (Privacy Policy) sets out the basis on which the personal data collected from you, or that you provide to us, will be processed by us. Please read the following carefully to understand how we will use your personal data. For Data Protection Laws in the UK, we are the controller of your personal data.
 
 WHAT PERSONAL DATA DO WE COLLECT AND PROCESS?
 When you visit our Platform, you may provide us with the following types of personal data, and we may collect and process such personal data in accordance with his Privacy Policy, as follows:
@@ -18,7 +18,7 @@ We use your personal data in the following ways:
 We use your Contact Data to:
 respond to communications that you send to us. The legal basis for such processing is your and our legitimate interests; and
 market products and services to you only where you have requested that we do so, or otherwise provided your explicit consent (either via our website, by emailing us or by accepting push notifications on your device). The legal basis for such processing is that you have consented to us doing so; and
-for customer relationship management ("CRM") purposes;
+for customer relationship management (CRM) purposes;
 i. additionally, we may request access to your device¡¯s contacts for the purposes of enabling social functionality, such as giving you the option to follow your contacts on the Platform.
 We use your Account Data to:
 enable you to personalise your use of our services;
