@@ -1,6 +1,6 @@
-Piano, a challenging and very elegant instrument.
+Piano,a challenging and very elegant instrument.
 
-This app makes it easy for people who want to learn piano, use the phone to practice the piano anytime, anywhere, and use the phone piano to show you a perfect piano piece.
+This app makes it easy for people who want to learn piano,use the phone to practice the piano anytime,anywhere, and use the phone piano to show you a perfect piano piece.
 
 Features:
 
